@@ -1,0 +1,24 @@
+Project Title: Particle Accelerator Laboratory Management System
+
+Objective: 
+
+Particle accelerators are the world’s largest facilities to conduct experiments. Installed deep beneath the underground, the experiment conducted in such facilities aims to detect new fundamental building blocks of the universe, thus extending the current version of the Standard Model of particle physics and our understanding of the universe. In this project, I am interested in simulating a particle accelerator set up and creating a database management system that accommodates some of the basic functionality expected in managing such huge facilities. 
+
+As an eleventh semester Physics major and Computer Science Minor, I am excited to implement this project since it directly aligns with my background. 
+
+Eight Features:
+
+1. View Apparatus Information – Show details of apparatus, their beams, and operating conditions. 
+2. Manage Experiments – Add, edit, or view ongoing and completed experiments.
+3. Record Experimental Results – Upload new results with date, type, and outcome. 
+4. Manage Facilities – Add or view laboratories, beamlines, or detectors.
+5. Manage Employees – Add new scientists, technicians, or staff.
+6. Search Functionality – Search by staff, experiment, detected particles, or available apparatus.
+7. Generate Summary Reports – Summarize experiments, results, and resource usage.
+8. Export Data to CSV/PDF 
+
+Some Links:
+
+https://home.cern/science/experiments
+
+https://www.fnal.gov/pub/science/experime
